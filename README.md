@@ -12,27 +12,71 @@ Information Systems graduate who turns raw data into insights and builds intelli
 - 📈 Power BI Developer building interactive dashboards and reports
 - 🤖 AI & ML Engineer building predictive models
 - 🐍 Python developer experienced in data analysis and automation
-- 🗄️ Interested in SQL, Data Engineering, ETL, and data pipelines
+- 🗄️ Interested in SQL, Data Engineering, ETL/ELT, and data pipelines
 - 💡 Exploring Generative AI, LLMs, and Prompt Engineering
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Core Stack**<br>
-<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,tensorflow,pytorch,opencv,powerbi,postgres,mysql,nextjs,nestjs,git,github,docker" alt="Core tech stack icons" />
+**Data Analysis & Visualization**<br>
+<img src="https://skillicons.dev/icons?i=py,pandas,numpy,matplotlib,powerbi" alt="Python, Pandas, NumPy, Matplotlib, Power BI" /><br>
+![Matplotlib pyplot](https://img.shields.io/badge/Matplotlib_pyplot-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 
-**Also use**<br>
+**Machine Learning & AI**<br>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv" alt="Scikit-learn, TensorFlow, PyTorch, OpenCV" /><br>
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-6B8E23?style=for-the-badge)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-D2691E?style=for-the-badge)
+![K-Means](https://img.shields.io/badge/K--Means_Clustering-8A2BE2?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-C71585?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-0A66C2?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Databases & Data Engineering**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, MongoDB" /><br>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-005571?style=for-the-badge)
+![ELT](https://img.shields.io/badge/ELT-0B7285?style=for-the-badge)
+
+**Web Development**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs" alt="React, Next.js, Node.js, Express, NestJS" />
+
+| Technology | Category |
+|---|---|
+| React.js | Frontend |
+| Next.js | Full-stack framework |
+| Node.js | Backend runtime |
+| Express.js | Backend framework |
+| NestJS | Backend framework |
+
+**Tools & Platforms**<br>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,jupyter,aws" alt="VS Code, Git, GitHub, Docker, Postman, Jupyter, AWS" /><br>
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit_Community_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-learning_&_exploring-232F3E?style=for-the-badge)
+
+**Core Python Libraries**
+
+| Library | Main purpose |
+|---|---|
+| Pandas | Data manipulation and cleaning |
+| NumPy | Numerical computing |
+| Matplotlib | Data visualization |
+| Seaborn | Statistical visualization |
+| Plotly | Interactive visualizations |
+| Scikit-learn | Machine learning |
+| SciPy | Scientific computing |
 
 ---
 
